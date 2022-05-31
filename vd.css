@@ -5,13 +5,14 @@ body
     background-size: cover;
 }
 
-.login_div1 , .login_div2
+div
 {
 		background: rgba(213, 166, 166, 0.447);
 		padding: 5px;
 		float: none;
 		border-radius: 15px;
 		font-family: 'Oswald', sans-serif;
+		width: 30%;
 }
 
 
@@ -38,7 +39,7 @@ padding: 10px;
 float: none;
 text-align: left;
 }
-#player1_name_input, #player2_name_input
+input
 {
 	display: inline-block;
 	
