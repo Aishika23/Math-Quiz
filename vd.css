@@ -7,7 +7,7 @@ body
 
 div
 {
-		background: rgba(213, 166, 166, 0.447);
+		background: rgba(213, 166, 166, 0.614);
 		padding: 5px;
 		float: none;
 		border-radius: 15px;
@@ -32,7 +32,7 @@ div
 }
 #output
 {
-background: white;
+background: rgba(255, 255, 255, 0.829);
 border-radius: 10px;
 border-top: 10px solid #AA4465;
 padding: 10px;
@@ -41,13 +41,11 @@ text-align: left;
 }
 input
 {
-	display: inline-block;
-	
-	background: rgba(255, 255, 255, 0.363);
+	    display: inline-block;
+	    background: rgba(255, 255, 255, 0.363);
 		padding: 10px;
 		float: none;
 		border-radius: 15px;
-		;
 		
 }
 button
@@ -61,4 +59,9 @@ button
 	width: 30%;
 	font-size: medium;
 	font-family: 'Oswald', sans-serif;
+}
+
+#wee
+{
+	width: 600px
 }
